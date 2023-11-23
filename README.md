@@ -1,5 +1,5 @@
 # Portfolio README
-#Review
+# Review
 ## Overview
 
 This README provides essential information about your React.js portfolio project. It combines React.js for dynamic UI components, Bootstrap for styling and layout, and CSS for additional customization.
@@ -32,15 +32,15 @@ This portfolio project is built using React.js, Bootstrap, and CSS to create a d
 
 1. Clone the repository:
 
-   ```git clone https://github.com/your-username/your-portfolio.git```
+     git clone https://github.com/your-username/your-portfolio.git
 
 2. Navigate to the project directory:
 
-  ```cd your-portfolio```
+     cd your-portfolio
 
 3. Install dependencies:
 
-    ```npm install```
+       npm install
 
 # Usage
   1. Customize the portfolio content:
@@ -88,4 +88,3 @@ This portfolio project is built using React.js, Bootstrap, and CSS to create a d
 # Contact
    If you have any questions or feedback, feel free to reach out at    gkrcoder@gmail.com .
 
-   
