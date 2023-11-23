@@ -6,6 +6,7 @@ This README provides essential information about your React.js portfolio project
 
 ## Table of Contents
 
+
 1. [Description](#description)
 2. [Features](#features)
 3. [Installation](#installation)
@@ -66,7 +67,7 @@ This portfolio project is built using React.js, Bootstrap, and CSS to create a d
         |-- public/
         |-- src/
         |   |-- assets/
-        |   |   |-- projects/
+        |   |   |-- images/
         |   |-- components/
         |   |-- data/
         |   |-- pages/
@@ -74,6 +75,7 @@ This portfolio project is built using React.js, Bootstrap, and CSS to create a d
         |-- .gitignore
         |-- package.json
         |-- README.md
+        |-- LICENSE
         |-- etc.
 
     
@@ -88,3 +90,7 @@ This portfolio project is built using React.js, Bootstrap, and CSS to create a d
 # Contact
    If you have any questions or feedback, feel free to reach out at    gkrcoder@gmail.com .
 
+# Folder Structure
+   
+
+    
