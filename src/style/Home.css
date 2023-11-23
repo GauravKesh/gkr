@@ -1,0 +1,160 @@
+/*
+
+.container-j{
+    height: 100vh;
+     background-image:url("https://cdn.pixabay.com/photo/2018/05/08/08/50/artificial-intelligence-3382521_640.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    
+    
+
+}
+
+.container-1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    justify-content: ;
+    background-color:rgb(162, 144, 144);
+    height:100vh;
+    width:100%;
+}
+.container-main{
+    justify-content: center;
+    width: 100%;
+    font-size:50px ;
+}
+.container-main p{
+    text-align:left;
+    margin-left: 5px;
+    font-size: 50px;
+}  
+.typwr{
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 100%;
+    font-size:50px ;
+
+}
+
+.bio{
+    background-color:red ;
+    margin-top: 3px;
+    height:100vh;
+
+
+} 
+*/
+
+
+.main {
+    background-image: url("https://shorturl.at/fGN05");
+    height:100vh;
+    width: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+.value {
+    background-image: url("https://shorturl.at/cDFMW");
+    height:100vh;
+    width: 100%;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* z-index: 2; */
+    background-color: blanchedalmond;
+    scroll-behavior: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.value1 {
+    background-image: url("https://shorturl.at/avGP8");
+    height:100vh;
+    width: 100%;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* z-index: 2; */
+    scroll-behavior: smooth;
+    image-resolution: 100% 100%;
+
+}
+
+.value2 {
+    background-image: url("https://shorturl.at/ctGN1");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    position: relative;
+    /* z-index: 2; */
+    background-color: blue;
+    scroll-behavior: smooth;
+
+
+}
+.containe{
+    width: 100%;
+    /* height: 100vh; */
+    /* height: 100vh; */
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+
+
+} 
+
+
+.info{
+    position: relative;
+    background-attachment: fixed;
+    width: 25%;
+    height: 25vh;
+
+    
+    border: 5px solid black;
+    position: sticky;
+    background-color: rgb(164, 56, 56);
+
+}
+@media screen and (max-width: 768px) {
+
+}
+
